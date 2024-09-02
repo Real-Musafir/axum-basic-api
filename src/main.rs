@@ -1,4 +1,3 @@
-use axum::Router;
 use axum_simple_api::config::AppConfig;
 use axum_simple_api::routes::create_routes;
 use std::net::SocketAddr;
